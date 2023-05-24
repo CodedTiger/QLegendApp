@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.qlegend"
+    namespace "com.arkpixelstudio.qlegend"
     defaultConfig {
-        applicationId "com.qlegend"
+        applicationId "com.arkpixelstudio.qlegend"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

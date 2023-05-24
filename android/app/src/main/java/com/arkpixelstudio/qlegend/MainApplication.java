@@ -1,4 +1,4 @@
-package com.qlegend;
+package com.arkpixelstudio.qlegend;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
